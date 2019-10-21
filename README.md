@@ -4,6 +4,9 @@ Execute tests with `python test_polly.py`.
 
 Your output should have no failures and exit with `OK`.
 
+## Location
+Either in the course materials folder in sciebo or at https://github.com/Wegi/hhu-advanced-programming-exercise-01-polly online
+
 # Practical Exercise 01
 (Due to 06.11.2019)
 
