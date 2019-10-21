@@ -53,3 +53,7 @@ The cage shall have a method to
     * Listen to the cage (repeat a random phrase of a random parrot)
     * Any fun method you can think of
 * 10: Write Tests for the `ParrotCage`
+
+
+------------------
+Credit: Exercise inspired by Christian Meter (@n2o)
